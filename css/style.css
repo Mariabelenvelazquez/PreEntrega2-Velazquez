@@ -386,7 +386,7 @@ form {
 /* animación */
 .empresa{
     animation-name: movimiento;
-    animation-duration: 5s;
+    animation-duration: 6s;
     animation-iteration-count: infinite;
     
 }
