@@ -417,14 +417,12 @@ form {
 }
 }
 
-
 @media (max-width: 47.5rem){
     .section { flex-direction: row;
         justify-content: space-between;
         font-size: .625rem;
             }
-
-
 }
+
 
 
